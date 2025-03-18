@@ -30,10 +30,7 @@ An IDE like IntelliJ IDEA or Eclipse (optional but recommended).
 
 ## How to Run the Project
 
-Clone the Repository:
-
-git clone <repository-url>
-cd spring-boot-crud
+Clone the Repository: git clone `<repository-url>`
 
 Configure PostgreSQL Database:
 Update the application.properties file with your PostgreSQL credentials:
